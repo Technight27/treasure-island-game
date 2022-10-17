@@ -16,9 +16,6 @@ My Story is as follows
 * "You get attacked by an angry trout. Game Over."
 * "You fell into a hole. Game Over."
 
-# Escaping Characters
-
-If you want to use multiple sets of quotes inside a single string, you might have to "escape" some of them using the backslash `\`. You can see this in my first sentence: 'You\'re at a crossroad...'. [More on escaping characters here.](https://www.w3schools.com/python/gloss_python_escape_characters.asp)
 
 
 
